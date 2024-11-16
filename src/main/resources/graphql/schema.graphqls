@@ -1,0 +1,5 @@
+schema {
+    query: UserQueries
+    mutation: UserMutations
+    subscription: userSubscription
+}
